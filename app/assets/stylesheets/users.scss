@@ -5,7 +5,15 @@
   text-align: center;
 }
 
+/* ユーザー情報下ボタン*/
+
+.btn-users-show {
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
+
 /* ユーザー勤怠情報テーブル */
+
 #table-attendances {
   th {
     vertical-align: middle;
@@ -40,12 +48,12 @@
 
 #table-users {
   td {
-    vertical-align:middle;
+    vertical-align: middle;
   }
 }
 
 .label-basic-info {
-  margin-top:5px;
+  margin-top: 5px;
 }
 
 .btn-basic-info {
